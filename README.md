@@ -29,7 +29,7 @@ Asimismo, de acuerdo con la Asociación de Bancos del Perú (Asbanc), menos de l
         <img height="0" width="32px">
         <img width="30%" src="screenShots/banca_movil_02.png" alt="About screen" title="About screen" </img>
         <img height="0" width="32px">
-        <img width="30%" src="screenShots/banca_movil_03.png" alt="About screen" title="About screen" </img>
+        <img width="30%" src="screenShots/banca_movil_06.png" alt="About screen" title="About screen" </img>
         <img height="0" width="32px">
         <img width="30%" src="screenShots/banca_movil_04.png" alt="About screen" title="About screen" </img>
         <img height="0" width="32px">
