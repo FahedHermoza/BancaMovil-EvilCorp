@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Banca Móvil</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_app_name">E Corp</string>
+
+    <!-- Splash Screen-->
+    <string name="subtitle_splash_screen">Banca Móvil</string>
+    <string name="question_splash_screen">¿Ya tienes una cuenta?</string>
+    <string name="login_splash_screen">Inicia Sesión</string>
+    <string name="term_splash_screen">Terminos de uso y privacidad</string>
+    <!-- Login Screen-->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="email_login">Correo Electronico</string>
+    <string name="password_login">Contraseña</string>
+    <string name="begin_login">INICIAR SESIÓN</string>
+    <!-- Lateral Menu-->
+    <string name="title_activity_lateral_menu">LateralMenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_menu_account">Mi Cuenta</string>
+    <string name="title_menu_operations">Mis operaciones</string>
+    <string name="subtitle_menu">Cuenta</string>
+    <string name="title_menu_sign_off">Cerrar Sesión</string>
+    <string name="title_nav_header_menu">email@gmail.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="snackbar_error_login">Ingrese datos validos</string>
+    <string name="snackbar_account_error_login">¡Email y password incorrecto!</string>
+
+    <!-- Account-->
+    <string name="title_person_account">CUENTA SIMPLE</string>
+    <string name="title_balance_account">$20 000</string>
+    <string name="subtitle_balance_account">/Saldo disponible</string>
+    <string name="title_detail_account">DETALLES</string>
+    <string name="title_account_number_detail_account">Número de cuenta</string>
+    <string name="title_balance_account_number_detail_account">123 4500001234</string>
+    <string name="title_international_account_number_detail_account">Número de cuenta interbancario</string>
+    <string name="title_balance_international_account_number_detail_account">123-123-123400123450-00</string>
+
+    <!-- Operations-->
+    <string name="title_person_operations">MOVIMIENTOS</string>
+    <string name="title_detail_operations">Retiro en cajero</string>
+    <string name="title_date_operations">Lunes 19 de feb, 11:21 am</string>
+    <string name="title_count_operations">$ -200.00</string>
+
+
+
+</resources>
